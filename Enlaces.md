@@ -8,15 +8,14 @@ Link al repo:
 
 ### Participantes
 Rosa Carmona oc.carmona@gmail.com
-Francisco Agamez franciscoagamez@gmail.com
-Ariel Gonzalez Arielenriquegonzalez00@gmail.com
-Jared Luna Leonjaredaugustolunaleon@gmail.com
-Roxana Rapali roxana.rapali@gmail.com
+<br />Francisco Agamez franciscoagamez@gmail.com
+<br />Ariel Gonzalez Arielenriquegonzalez00@gmail.com
+<br />Jared Luna Leonjaredaugustolunaleon@gmail.com
+<br />Roxana Rapali roxana.rapali@gmail.com
 
 
 
 ### Recursos compartidos
-
-https://trello.com/b/OANs2MNE/proyecto-final-henry
-Colab de Rosa: https://colab.research.google.com/drive/1McsP6XanTFBSQy8PplB5yoGpU07ps_K9?usp=sharing
-Google docs de Rosa: https://docs.google.com/document/d/15sAKRLHXg5Z0Yqmht1SJDeoXrX7vclvInhxdYsPCFU8/edit
+Trello: https://trello.com/b/OANs2MNE/proyecto-final-henry
+<br />Colab de Rosa: https://colab.research.google.com/drive/1McsP6XanTFBSQy8PplB5yoGpU07ps_K9?usp=sharing
+<br />Google docs de Rosa: https://docs.google.com/document/d/15sAKRLHXg5Z0Yqmht1SJDeoXrX7vclvInhxdYsPCFU8/edit
