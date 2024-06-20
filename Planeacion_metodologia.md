@@ -9,29 +9,37 @@ Para garantizar un desarrollo eficiente y organizado del proyecto, se adoptará 
 ·         Analizar el proyecto seleccionado.
 ·         Documentar la problemática y su contexto.
 ·         Describir posibles análisis y soluciones.
+
 2.                  Establecer Objetivos Claros
 ·         Definir acciones concretas para el proyecto.
 ·         Especificar verbos de acción (desarrollar, crear, implementar, etc.).
 ·         Delimitar el Alcance del Proyecto.
+
 3.                  Definir Objetivos y KPIs Asociados
 ·         Identificar cuestiones a resolver con el proyecto.
 ·         Definir KPIs para evaluar el cumplimiento de los objetivos.
+
 4.                  Crear el Repositorio en Github
 ·         Configurar un repositorio público en Github.
 ·         Invitar a todos los participantes.
 ·         Establecer ramas y controles de versiones.
+
 5.                  Detallar la Solución Propuesta
 ·         Especificar tareas, metodologías de trabajo y distribución de roles.
 ·         Detallar productos y etapas de presentación.
+
 6.                  Crear Diagrama de Gantt
 ·         Estimar tiempo para cada tarea.
 ·         Plasmar la estimación en un diagrama de Gantt.
+
 7.                  Seleccionar Herramientas del Stack Tecnológico
 ·         Elegir herramientas para la arquitectura del proyecto.
 ·         Probar limpieza y transformación de una porción de los datos.
+
 8.                  Realizar Análisis de Calidad de Datos
 ·         Analizar metadatos de los datasets.
 ·         Documentar fuentes, confiabilidad y características de los datos.
+
 9.                  Documentar y Presentar el Trabajo Realizado
 ·         Documentar KPIs, alcance del proyecto y EDA.
 ·         Documentar stack elegido, metodología y cronograma.
