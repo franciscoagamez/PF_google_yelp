@@ -19,10 +19,10 @@ Los negocios dependen en gran medida de las reseñas en plataformas como Google 
 Desarrollar un sistema integral de análisis del mercado de restaurantes en el condado de Los Ángeles, CA, orientado a inversores del sector de restaurantes.
 
 ### Objetivos Específicos
-Caracterizar los tipos de restaurantes: Analizar el modelo de negocio, número de sucursales, distribución geográfica, entre otros aspectos relevantes.
-Identificar valoraciones y tendencias: Determinar los tipos de restaurantes que reciben las mejores y peores valoraciones de los clientes, identificando así tendencias y preferencias del mercado.
-Detectar zonas con mayor potencial: Evaluar las áreas con mayor potencial de desarrollo para distintos modelos de restaurantes.
-Segmentar clientes: Desarrollar un sistema de segmentación de clientes para identificar grupos según sus preferencias y comportamiento de consumo, facilitando la personalización de ofertas y estrategias de marketing.
+- Caracterizar los tipos de restaurantes: Analizar el modelo de negocio, número de sucursales, distribución geográfica, entre otros aspectos relevantes.
+- Identificar valoraciones y tendencias: Determinar los tipos de restaurantes que reciben las mejores y peores valoraciones de los clientes, identificando así tendencias y preferencias del mercado.
+- Detectar zonas con mayor potencial: Evaluar las áreas con mayor potencial de desarrollo para distintos modelos de restaurantes.
+- Segmentar clientes: Desarrollar un sistema de segmentación de clientes para identificar grupos según sus preferencias y comportamiento de consumo, facilitando la personalización de ofertas y estrategias de marketing.
 
 ### Fuentes de información
 Este proyecto se basa en bases de datos robustas y variadas, provenientes de Google Maps y Yelp, así como datos demográficos y del producto interno bruto (PIB). Se analiza y extrae información crucial, incluyendo:
@@ -42,3 +42,9 @@ El equipo de trabajo de Inteligent consta de especialistas en distintas áreas d
 Además, puedes consultar las estrategias de procesamiento y obtención de la información en el documento [Procesamiento y stack tecnológico]
 
 ## Organización del repositorio
+El repositorio está organizado en dos carpetas y tres documentos que se describen a continuación:
+
+ - Imagenes: este subdirectorio contiene las imágenes que se utilizan para ilustrar la documentación de este proyecto.
+ - JupiterNotebooks: contiene el código necesario para el desarrollo del proyecto. En este subdirectorio se encuentra el análisis exploratorio preliminar de las bases de datos así como la descripción y documentación del mismo.
+ - Enlaces: ligas y enlaces de interés, así como el contacto de los miembros de Intelidata
+ - Planeacion_metodologia.md: en este documento se detalla el plan de trabajo, así como la asignación de tareas y roles del equipo.
