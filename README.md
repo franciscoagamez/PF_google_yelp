@@ -1,6 +1,6 @@
 ## HENRY BOOTCAMP: Data science part time
 ### PROYECTO FINAL
-![Figura - Logotipo Intelidata](Imagenes/Logo Intelidata.png)
+![Figura - Logotipo Intelidata](https://github.com/franciscoagamez/PF_google_yelp/blob/main/Imagenes/Logo%20Intelidata.png)
 
 ## Bienvenido a Intelidata
 En Intelidata, somos apasionados por transformar datos en decisiones inteligentes. Somos una empresa líder en el campo de la ciencia de datos, comprometida con ayudar a nuestros clientes a descubrir insights valiosos y a tomar decisiones informadas basadas en datos. Nuestro equipo de expertos en análisis de datos, machine learning e inteligencia artificial trabaja diligentemente para ofrecer soluciones innovadoras y personalizadas que se adapten a las necesidades específicas de cada proyecto.

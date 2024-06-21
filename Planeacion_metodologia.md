@@ -54,7 +54,7 @@ Para garantizar un desarrollo eficiente y organizado del proyecto, se adoptará 
 - Product Experience Engineer: Diseñar la interfaz del usuario para el dashboard, crear un diseño coherente, atractivo e intuitivo y realizar pruebas de calidad del software para asegurar que las funcionalidades cumplen con los requerimientos.
  
 ## Distribución del Tiempo y Responsabilidades
-![Tabla - Distribución del tiempo y responsabilidades](Imágenes/Distribución del tiempo y responsabilidades.png)
+![Tabla - Distribución del tiempo y responsabilidades](https://github.com/franciscoagamez/PF_google_yelp/blob/main/Imagenes/Distribuci%C3%B3n%20del%20tiempo%20y%20responsabilidades.png)
 
 ## Distribución del Tiempo:
 Día 1: Documentar alcance del proyecto, definir roles y metodología de trabajo.
@@ -65,7 +65,8 @@ Día 6-7: Data Scientist realiza EDA de los datos.
 Día 8-9: Data Engineer realiza análisis preliminar de calidad de datos.
 Día 10: Project Manager finaliza el cronograma general en el diagrama de Gantt.
  
-![Figura - Diagrama de Gantt](Imágenes/Diagrama de Gantt.png)
+![Figura - Diagrama de Gantt](https://github.com/franciscoagamez/PF_google_yelp/blob/main/Imagenes/Diagrama%20de%20Gantt.png)
+
 
 ## Asignación de roles:
 A partir de la encuesta en whatsapp y formulario de google se recopilarn datos para poder determinar cuál de los participantes se deempeñaria mejor en cada uno de los roles a desarrollar para la implementación del proyecto.
