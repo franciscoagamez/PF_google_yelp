@@ -1,12 +1,16 @@
 # ANÁLISIS EXPLORATORIO DE LOS DATOS PRELIMINAR 
 
-El análisis exploratorio para la primera fase del proyecto consistió en la inspección del contenido de las bases de datos de manera superficial, con el objetivo de entender la información de la cual se dispone. La información que deriva de este primer análisis es una de las bases para el diseño de los objetivos generales del proyecto, es por ello que esta primera exploración es sumamente relevante. En este documento se describe de manera resumida las características básicas de las bases de datos así como los principales hallazgos encontrados a partir de la aplicación de estadística descriptiva y se organiza en tres secciones: 1. Producto Interno Bruto en las regiones de Estados Unidos, 2.  Bases de datos de comercios (Yelp y Google Maps) y 3. Análisis de rubros
+El análisis exploratorio para la primera fase del proyecto consistió en la inspección del contenido de las bases de datos de manera superficial, con el objetivo de entender la información de la cual se dispone. La información que deriva de este primer análisis es una de las bases para el diseño de los objetivos generales del proyecto, es por ello que esta primera exploración es sumamente relevante. En este documento se describe de manera resumida las características básicas de las bases de datos así como los principales hallazgos encontrados a partir de la aplicación de estadística descriptiva y se organiza en tres secciones:
 
-1. ## Producto Interno Bruto en las regiones de Estados Unidos
+- 1. Producto Interno Bruto en las regiones de Estados Unidos
+- 2.  Bases de datos de comercios (Yelp y Google Maps)
+- 3. Análisis de rubros
+
+ ## 1._ Producto Interno Bruto en las regiones de Estados Unidos
    
-2. ## Bases de datos de comercios (Yelp y Google Maps)
-   ### YELP
-   #### Generalidades
+## 2._ Bases de datos de comercios (Yelp y Google Maps)
+### YELP
+#### Generalidades
    El dataset de Yelp consiste en 5 archivos en diferentes formatos (pkl, json y parquet) que contienen información respecto a los negocios (nombre, rubro, ubicación, calificación promerido, entre otros), reseñas de los clientes  (comentarios, tips, valoraciones, entre otros), información del perfil de los clientes (antiguedad, número de fans, utilidad de sus reseñas, entre otros) y los check-in de los clientes a los negocios.
 
    #### Integridad
