@@ -139,4 +139,3 @@ El grupo de archivos que describe a los negocios posee una integridad parcial, d
 *MAPA DE CALOR (DENSIDAD) DE EMPRESAS*
 
 *Mapa_Dataset_GM.png*
-
