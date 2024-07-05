@@ -1,30 +1,5 @@
 # PROCESAMIENTO ETL
-Los procesos se implementaron con el fin de lograr los siguientes objetivos y obtener las siguientes métricas:
-
-### Objetivo General
-Desarrollar un sistema integral de análisis del mercado de restaurantes en el condado de Los Ángeles, CA, orientado a inversores del sector de restaurantes.
-
-#### Objetivos Específicos
-- Caracterizar los tipos de restaurantes: Analizar el modelo de negocio, número de sucursales, distribución geográfica, entre otros aspectos relevantes.
-
-- Identificar valoraciones y tendencias: Determinar los tipos de restaurantes que reciben las mejores y peores valoraciones de los clientes, identificando así tendencias y preferencias del mercado.
-  
-- Detectar zonas con mayor potencial: Evaluar las áreas con mayor potencial de desarrollo para distintos modelos de restaurantes.
-
-- Segmentar clientes: Desarrollar un sistema de segmentación de clientes para identificar grupos según sus preferencias y comportamiento de consumo, facilitando la personalización de ofertas y estrategias de marketing.
-
-### KPI's
-#### KPI #1 - Satisfacción  del cliente
-Mide el nivel de satisfacción de los clientes basándose en sus calificaciones
-índice de satisfacción del cliente = (Ʃ(Calificación * Número de reseñas))/Número total de reseñas
-
-#### KPI #2 - Sentimiento promedio de opiniones
-Mide el sentimiento general de las opiniones de los clientes (positivo, negativo o neutral)
-Sentimiento promedio = ƩPuntuaciones de sentimiento/Número total de opiniones
-
-#### KPI #3 - Conversión de visitas en reseñas
-El porcentaje de visitantes que dejan una reseña después de visitar el restaurante
-índice de conversión = (Número de reseñas/Número total de visitantes) * 100
+Los procesos se implementaron con el fin de lograr los siguientes objetivos generales y específicos así como para obtener la información requerida para el cálculo de los KPI's mencionados en la sección de README.md
 
 ## Automatización del ETL
 Todas las extracciones y transformaciones se llevaron a cabo dentro de la plataforma de Google Cloud Platform, activando la función ETL_GCP.py almacenada en un bucket de Google Cloud Storage. Esta función utiliza los archivos json almacenados en un bucket independiente a los cuales aplica todas las transformaciones. Posteriormente, la función crea tablas en formato BigTable, las cuales se cargan en la consola de Big Query desde donde se pueden hacer las consultas y análisis necesarios.
