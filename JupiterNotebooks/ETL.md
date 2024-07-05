@@ -46,3 +46,5 @@ El porcentaje de visitantes que dejan una reseña después de visitar el restaur
 - Por otra parte, el dataset de reviews posee integridad del 100% en el resto de los campos, entre ellos son relevantes "gmap_id" (para establecer relaciones con otros dataset), "time" (timestamp de la reseña) y "rating" (calificación dada por el cliente).
 
 - El análisis de duplicados en el campo gmap_id revela dos cosas: 1. De los 13,955 restaurantes registrados, solo 2,602 tienen información respecto a reseña y/o valoración; 2. Hay una gran disparidad en cuanto al número de reseñas para cada restaurante (máximo de 9,930 y mínimo de 10).
+
+- Se transformó el campo time (timestamp de la reseña) para proveer un formato legible (fecha y hora).
