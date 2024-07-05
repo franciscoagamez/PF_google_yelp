@@ -53,7 +53,11 @@ Este dataset consiste en 18 archivos json que contienen los usuarios y sus rese�
 ***Imputaciones y transformaciones***
 - Se transformó el campo time (timestamp de la reseña) para proveer un formato legible (fecha y hora).
 - Una vez establecida la relación entre los datasets, se imputaron los valores NULOS del campo "text"  (reseña) del dataset de reviews_California a partir de los valores del campo "avg_rating" (valoración promedio del restaurante) proveniente del dataset metadata_sitios. Los valores imputados se asignaron de acuerdo a la siguiente clasificación de las valoraciones promedio:
+
 **rango de valoración promedio (avg_rating)** - **reseña (text)**
+
 [1 - 2.9]  - Negativa
+
 [3 - 3.9] - Neutra
+
 [4 - 5] - Positiva
