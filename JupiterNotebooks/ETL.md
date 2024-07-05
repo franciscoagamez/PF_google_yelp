@@ -35,10 +35,10 @@ A continuación se describen los procedimientos y algunos datos importantes deri
 Este dataset contiene información general de los negocios de Estados Unidos que se encuentran registrados en Google Maps hasta 2018 y consiste en 11 archivos json. Estos archivos se unificaron en un solo dataframe con 3,025,011, el cual se sometió a un proceso de segmentación para obtener únicamente los registros de interés.
 	 - El proceso de segmentación se llevó a cabo aplicando dos criterios: 
   
-	**1. Ubicación geográfica**
+	1. Ubicación geográfica
   Respecto a la ubicación geográfica, el proceso consistió en filtrar los datos de acuerdo al par de coordenadas (latitude y longitude) de cada registro, las cuales se ubicaron dentro de los límites geográficos del condado de Los Ángeles (se tomaron los límites del sitio https://public.gis.lacounty.gov/public/rest/services/LACounty_Dynamic/Transportation/MapServer/generateKml). Estos límites geográficos se almacenaron en un archivo geojson con el cual es posible manejar funciones de análisis geográfico. Se encontraron 75,815 registros dentro del condado de Los Angeles.
   
-	  **2. Categoría de restaurantes**  
+	  2. Categoría de restaurantes
  En cuanto al criterio de categoría, se utilizó un filtro para conservar los registros que contienen la palabra "restaurant" en el campo "Category". Para lograrlo fue necesario hacer dos cosas: a) explotar el dataset en su campo "Category" pues algunos comercios contienen varias categorías en forma de lista. Una vez aplicada la función de explode, el nuevo dataset contenía 151,515 registros. b) Se eliminaron 496 registros (que representan el 0.3% del dataset). 
 
  - **Después de aplicar todos los procesos de segmentación, el dataset de RESTAURANTES en el CONDADO DE LOS ÁNGELES contiene 13,955 registros.**
