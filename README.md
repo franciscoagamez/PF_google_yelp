@@ -9,7 +9,7 @@ Este repositorio ha sido creado para uno de nuestros proyectos más recientes, y
 
 Gracias por confiar en Intelidata.
 
-## Proyecto de Análisis de Mercado para Restaurantes
+## Proyecto de Data Science para Restaurantes de Los Ángeles, California
 Este es un proyecto que se enfoca en apoyar a un inversor pequeño en su incursión en el sector de restaurantes en Estados Unidos. Nuestro objetivo principal es desarrollar un sistema integral de análisis del mercado de restaurantes en el condado de Los Ángeles, CA, proporcionando información valiosa para la toma de decisiones estratégicas.
 
 ### Contexto
