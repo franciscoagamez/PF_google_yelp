@@ -28,7 +28,7 @@ Este proyecto se basa en bases de datos robustas y variadas, provenientes de Goo
 - Tipos de restaurantes en función del tipo de comida
 
 
-En la sección del análisis exploratorio de los datos ([EDA](JupiterNotebooks/Resultados_EDA_preliminar.md)) se detallan los principales hallazgos encontrados durante el análisis preliminar.
+En la sección del análisis exploratorio de los datos ([EDA](JupiterNotebooks/Resultados_EDA_preliminar.md)) se detallan los principales hallazgos encontrados durante el análisis.
 
 ### Metodología
 El equipo de trabajo de Intelidata consta de especialistas en distintas áreas de la ciencia de datos e implementan las mejores practicas para garantizar el desarrollo eficiente y organizado del proyecto. Puedes consultar el [Plan de proyecto y metodología de trabajo](Planeacion_metodologia.md) para conocer a los integrantes del equipo, roles, prácticas y planificación.
