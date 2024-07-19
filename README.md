@@ -44,7 +44,7 @@ Con nuestro dashboard de Looker, obtendrás una herramienta poderosa diseñada p
 Streamlit:
 Con nuestra página web, obtendrás una herramienta poderosa diseñada para optimizar operaciones, atraer más clientes y maximizar tus ingresos. Permítenos ayudarte a transformar tu restaurante con tecnología de vanguardia y estrategias efectivas que impulsarán tu éxito. 
 
-Te invitamos a ver nuestro [video demostrativo][https://drive.google.com/file/d/1K3wNn5K7996ims6QJ4e9ikQptUvokKmm/view?usp=sharing] de la funcionalidad de nuestras herramientas de inteligencia artificial disponibles a través de Streamlit.
+Te invitamos a ver nuestro [video demostrativo](https://drive.google.com/file/d/1K3wNn5K7996ims6QJ4e9ikQptUvokKmm/view?usp=sharing) de la funcionalidad de nuestras herramientas de inteligencia artificial disponibles a través de Streamlit.
 
 
 ## Organización del repositorio
