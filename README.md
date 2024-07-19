@@ -39,9 +39,11 @@ Además, puedes consultar las estrategias de procesamiento y obtención de la in
 
 ### Visualización de datos y herramientas
 ***Looker dashboard***
+
 Con nuestro dashboard de Looker, obtendrás una herramienta poderosa diseñada para analizar y comprender el mercado de restaurantes y las reseñas de sus clientes. Visualiza datos de ubicación en mapas de calor, explora categorías de restaurantes, precios y valoraciones cuantitativas con su evolución en el tiempo. Además, mide KPIs críticos para mejorar diversos aspectos de tu restaurante. Permítenos ayudarte a transformar tu negocio con tecnología avanzada y análisis detallados que impulsarán tu éxito en la competitiva industria de la restauración.
 
 ***Streamlit***
+
 Con nuestra página web, obtendrás una herramienta poderosa diseñada para optimizar operaciones, atraer más clientes y maximizar tus ingresos. Permítenos ayudarte a transformar tu restaurante con tecnología de vanguardia y estrategias efectivas que impulsarán tu éxito. 
 
 Te invitamos a ver nuestro [video demostrativo](https://drive.google.com/file/d/1K3wNn5K7996ims6QJ4e9ikQptUvokKmm/view?usp=sharing) de la funcionalidad de nuestras herramientas de inteligencia artificial disponibles a través de Streamlit.
